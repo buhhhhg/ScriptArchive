@@ -2,6 +2,8 @@
   Jeff speed gui 2.1.0
 
   made by topitbopit
+
+  SOURCE: https://web.archive.org/web/20210619054214/https://raw.githubusercontent.com/topitbopit/jeffs-speed-gui/main/gui.lua
 ]]--
 
 local HttpService = game:GetService("HttpService")
